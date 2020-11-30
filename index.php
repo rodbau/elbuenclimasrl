@@ -14,7 +14,7 @@
 				<header id="header" class="alt" style="padding-bottom: 3rem;">
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.html">INICIO</a></li>
+							<li class="current"><a href="#banner">INICIO</a></li>
 							<li class="current"><a href="#main">QUIENES SOMOS</a></li>
 							<li class="current"><a href="#nov">NOVEDADES</a></li>
 							<li class="current"><a href="#cta">DISTRIBUIDORES</a></li>
@@ -173,9 +173,9 @@
 
 				</div>
 
-					<ul class="icons">
-						<li><a href="www.instangram.com/elbuenclima" class="icon brands circle fa-instagram" target="_blank" ><span class="label">Instagram</span></a></li>
-						<li><a href="href=mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
+					<ul class="icons">	
+						<li><a href="www.instangram.com/elbuenclima" class="icon brands circle fa-instagram" ><span class="label">Instagram</span></a></li>
+						<li><a href="mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
 						<li><a href="https://api.whatsapp.com/send?phone=541123939033&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" class="icon brands circle fa-whatsapp"><span class="label">WhatsApp</span></a></li>
 					</ul>
 
