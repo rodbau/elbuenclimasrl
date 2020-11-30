@@ -174,9 +174,9 @@
 				</div>
 
 					<ul class="icons">	
-						<li><a href="https://instagram.com/elbuenclima" class="icon brands circle fa-instagram" ><span class="label">Instagram</span></a></li>
-						<li><a href="mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
-						<li><a href="https://wa.com/541123939033?text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" class="icon brands circle fa-whatsapp"><span class="label">WhatsApp</span></a></li>
+						<li><a href="https://instagram.com/elbuenclima" class="icon brands circle fa-instagram" target="_blank" style="font-size: 2rem;"><span class="label">Instagram</span></a></li>
+						<li><a href="mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"style="font-size: 2rem;"><span class="label">Email</span></a></li>
+						<li><a href="https://wa.me/541123939033?text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" target="_blank" class="icon brands circle fa-whatsapp"style="font-size: 2rem;"><span class="label">WhatsApp</span></a></li>
 					</ul>
 
 				</footer>
