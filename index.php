@@ -19,7 +19,7 @@
 							<li class="current"><a href="#nov">NOVEDADES</a></li>
 							<li class="current"><a href="#cta">DISTRIBUIDORES</a></li>
 							<li class="current"><a href="#footer">CONTACTO</a></li>
-							<li class="current"><a href="http://www.tudely.com/elbuenclimasrl" target="_blank">TIENDA</a></li>
+							<li class="current"><a href="http://tudely.com/elbuenclimasrl" target="_blank">TIENDA</a></li>
 						</ul>
 					</nav>
 				</header>
