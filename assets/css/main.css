@@ -1483,7 +1483,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media only screen and (max-width: 1900px) {
 
 			.row {
 				display: flex;
@@ -2703,7 +2703,7 @@ input, select, textarea {
 
 /* Normal */
 
-	@media screen and (max-width: 1280px) {
+	@media only screen and (max-width: 1280px) {
 
 		/* Basic */
 
@@ -2767,7 +2767,7 @@ input, select, textarea {
 
 /* Narrow */
 
-	@media screen and (max-width: 980px) {
+	@media only screen and (max-width: 980px) {
 
 		/* Basic */
 
@@ -2846,7 +2846,7 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 840px) {
+	@media only screen and (max-width: 840px) {
 
 		/* Basic */
 
@@ -3151,7 +3151,7 @@ input, select, textarea {
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	@media only screen and (max-device-width: 480px) {
 
 		/* Basic */
 
