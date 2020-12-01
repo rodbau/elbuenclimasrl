@@ -55,7 +55,7 @@
 						<div class="container">
 							
 
-							<img  src="images/logo.PNG" style="width: 15rem;">
+							<img  src="images/logo.PNG" style="width: 20rem;">
 							</div>
 
 						<p>El buen clima SRL es una empresa familiar dedicada a la venta de equipamiento para calefacción y aire acondicionado. Nuestra función es aportarle a nuestros clientes la tranquilidad de comprar en nuestro establecimiento ya que contamos con un grupo de personas 100% capacitadas en cada una de sus tareas. 
@@ -75,29 +75,30 @@
 						<h2>Distribuidores oficiales</h2>
 						<p>La mejor calidad la brindamos a través de la venta de la siguientes marcas</p>
 					</header>
-					<footer>
-						<ul class="buttons">
-							<li><a href="#" class="button">Ariston</a></li>
-							<li><a href="#" class="button">jit</a></li>
-							<li><a href="#" class="button">trane</a></li>
-							
 
+				<footer>
+
+						<ul><class="container" >
+
+						<img src="images/ariston.png"style="width: 15rem;">
+						<img src="images/Giacomini.PNG"style="width: 15rem;">
+						<img src="images/Trane.PNG"style="width: 15rem;">
+						<img src="images/jit.jpeg "style="width: 15rem;">
+
+
+						</class>
+					
 						</ul>
 
-						<ul class="buttons">
-							<li><a href="#" class="button">triangular</a></li>
-							<li><a href="#" class="button">giacomini</a></li>
-							<li><a href="#" class="button">euterma</a></li>
-							
+						<ul>
+						<class="container">
 
+							<img src="images/euterma.jpeg"style="width: 15rem;">
+							<img src="images/Triangular.PNG"style="width: 15rem;">
+							<img src="images/rinnai.jpeg"style="width: 15rem;">
+
+							</class>
 						</ul>
-
-						<ul class="buttons">
-							<li><a href="#" class="button">rinnai</a></li>
-							
-
-						</ul>
-
 
 
 					</footer>
@@ -117,6 +118,22 @@
 					</header>
 
 					
+				
+
+					<div class="row">
+						<div class="col-6 col-12-narrower" style="text-align: end;">
+
+								<img src="images/mp.PNG" style="width: 15rem;" >
+								
+						</div>
+						<div class="col-6 col-12-narrower" style="text-align: start;margin-top: 4rem;">
+
+							<img src="images/visa.jpg" style="width: 11rem;" >
+							
+					</div>
+			
+				
+					</div>
 
 					<!-- Two -->
 						<section class="wrapper style1 container special">
@@ -165,7 +182,7 @@
 				<footer id="footer">
 
 					<header>
-						<h2>Contacto </h2>
+						<h2 style="color: white;">Contacto </h2>
 					</header>
 
 					<div class="container">
@@ -174,9 +191,9 @@
 				</div>
 
 					<ul class="icons">	
-						<li><a href="https://instagram.com/elbuenclima" class="icon brands circle fa-instagram" target="_blank" style="font-size: 2rem;"><span class="label">Instagram</span></a></li>
-						<li><a href="mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"style="font-size: 2rem;"><span class="label">Email</span></a></li>
-						<li><a href="https://wa.me/541123939033?text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" target="_blank" class="icon brands circle fa-whatsapp"style="font-size: 2rem;"><span class="label">WhatsApp</span></a></li>
+						<li><a href="https://instagram.com/elbuenclima" class="icon brands circle fa-instagram" target="_blank" style="font-size: 3rem; color:white;"><span class="label">Instagram</span></a></li>
+						<li><a href="mailto:info@elbuenclimasrl.com" class="icon circle fa-envelope"style="font-size: 3rem; color:white ;"><span class="label">Email</span></a></li>
+						<li><a href="https://wa.me/541123939033?text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" target="_blank" class="icon brands circle fa-whatsapp"style="font-size: 3rem; color:white;"><span class="label">WhatsApp</span></a></li>
 					</ul>
 
 				</footer>

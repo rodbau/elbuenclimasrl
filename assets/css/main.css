@@ -2546,7 +2546,7 @@ input, select, textarea {
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgb(108 17 17 / 67%);
+			background: rgb(202 24 32 / 78%);
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
@@ -2641,10 +2641,11 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #E8EEF4;
+		background: #1c3f87;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
+
 	}
 
 		#footer .copyright {
