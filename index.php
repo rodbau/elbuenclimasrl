@@ -6,9 +6,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
+
+	
+</head>
 	<body class="index is-preload">
 		<div id="page-wrapper">
+
+
+
+
+    </div>
 
 			<!-- Header -->
 				<header id="header" class="alt" style="padding-bottom: 3rem;">
@@ -28,6 +35,12 @@
 				<section id="banner">
 
 					<div class="inner">
+
+						<div class="btn-whatsapp">
+							<a href="https://wa.me/541123939033?text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20El%20Buen%20Clima!" target="_blank">
+							<img src="http://s2.accesoperu.com/logos/btn_whatsapp.png" >
+							</a>
+							</div>
 
 						<header>
 							<h2>EL BUEN CLIMA SRL</h2>
