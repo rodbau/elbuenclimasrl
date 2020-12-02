@@ -26,7 +26,7 @@
 							<li class="current"><a href="#nov">NOVEDADES</a></li>
 							<li class="current"><a href="#cta">DISTRIBUIDORES</a></li>
 							<li class="current"><a href="#footer">CONTACTO</a></li>
-							<li class="current"><a href="http://tudely.com/elbuenclimasrl" target="_blank">TIENDA</a></li>
+							<li class="current"><a href="http://tudely.com/elbuenclimasrl" target="_blank" style="BACKGROUND-COLOR: rgb(202 24 32);COLOR: WHITE;">TIENDA</a></li>
 						</ul>
 					</nav>
 				</header>
@@ -77,7 +77,34 @@
 					</header>
 
 
-						</section>
+					<div class="row">
+						<div class="col-3 col-12-narrower" style="text-align: center;">
+
+								<img src="images/img1.jpeg" style="width: 20rem;" >
+								
+						</div>
+						<div class="col-3 col-12-narrower" style="text-align: center;">
+
+							<img src="images/img2.jpg" style="width: 20rem;" >
+
+						</div>
+
+						<div class="col-3 col-12-narrower" style="text-align: center;">
+
+							<img src="images/img3.jpg" style="width: 20rem;" >
+							
+					</div>
+
+					<div class="col-3 col-12-narrower" style="text-align: center;">
+
+						<img src="images/img4.jpg" style="width: 20rem;" >
+						
+				</div>
+							
+					</div>
+
+
+					</section>
 
 				</article>
 
