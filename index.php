@@ -63,7 +63,7 @@
 
 					<header class="special container">
 						<span class=""></span>
-						<h2>Nosotros</h2>
+						<h2   style="font-weight: bold;">Nosotros</h2>
 
 						<div class="container">
 							
@@ -112,7 +112,7 @@
 				<section id="cta">	
 
 					<header>
-						<h2>Distribuidores oficiales</h2>
+						<h2  style="font-weight: bold;">Distribuidores oficiales</h2>
 						<p>La mejor calidad la brindamos a través de la venta de la siguientes marcas</p>
 					</header>
 
@@ -153,7 +153,7 @@
 
 					<header class="special container">
 						<span class=""></span>
-						<h2>Novedades</h2>
+						<h2  style="font-weight: bold;">Novedades</h2>
 						<p>Contamos con distintos medios de pago como transferencia bancaria, MercadoPago, efectivo, tarjetas de crédito y débito. </p>
 					</header>
 
@@ -222,7 +222,7 @@
 				<footer id="footer">
 
 					<header>
-						<h2 style="color: white;">Contacto </h2>
+						<h2 style="color: white;  font-weight: bold;">Contacto </h2>
 					</header>
 
 					<div class="container">
