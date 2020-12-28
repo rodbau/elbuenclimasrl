@@ -163,7 +163,7 @@
 					<div class="row">
 						<div class="col-6 col-12-narrower" style="text-align: center; ">
 
-								<img src="images/mp.PNG" style="width: 15rem;" >
+								<img src="images/mp.PNG" style="width: 11rem;" >
 								
 						</div>
 						<div class="col-6 col-12-narrower" style="text-align: center;margin-bottom: 2rem;">
