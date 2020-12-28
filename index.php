@@ -161,12 +161,12 @@
 				
 
 					<div class="row">
-						<div class="col-6 col-12-narrower" style="text-align: end;">
+						<div class="col-6 col-12-narrower" style="text-align: center; ">
 
 								<img src="images/mp.PNG" style="width: 15rem;" >
 								
 						</div>
-						<div class="col-6 col-12-narrower" style="text-align: start;margin-top: 4rem;">
+						<div class="col-6 col-12-narrower" style="text-align: center;margin-bottom: 2rem;">
 
 							<img src="images/visa.jpg" style="width: 11rem;" >
 							
@@ -226,7 +226,7 @@
 					</header>
 
 					<div class="container">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13096.694696109469!2d-58.5042!3d-34.8518632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6fbaa1c5f9a4585f!2sEL%20BUEN%20CLIMA!5e0!3m2!1ses!2sar!4v1606598161589!5m2!1ses!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13096.694696109469!2d-58.5042!3d-34.8518632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6fbaa1c5f9a4585f!2sEL%20BUEN%20CLIMA!5e0!3m2!1ses!2sar!4v1606598161589!5m2!1ses!2sar" frameborder="0" style="height: -webkit-fill-available;width: -webkit-fill-available;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 				</div>
 
