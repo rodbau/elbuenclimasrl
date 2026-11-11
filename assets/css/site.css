@@ -143,12 +143,6 @@ h3 {
 	min-width: 0;
 }
 
-.brand img {
-	width: 52px;
-	height: 46px;
-	object-fit: contain;
-}
-
 .brand-name {
 	display: flex;
 	flex-direction: column;
@@ -428,7 +422,6 @@ h3 {
 }
 
 .brand-grid,
-.pay-logos,
 .feature-grid,
 .contact-cards {
 	margin: 0;
@@ -446,44 +439,16 @@ h3 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 118px;
+	min-height: 76px;
 	padding: 0.9rem 1rem;
 	background: var(--white);
 	border: 1px solid var(--line);
 	border-radius: 18px;
-	overflow: hidden;
-}
-
-.brand-grid img {
-	max-width: 78%;
-	max-height: 68px;
-	width: auto;
-	height: auto;
-	object-fit: contain;
-}
-
-.pay-logos {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 1rem;
-	margin-bottom: 1.5rem;
-}
-
-.pay-logos li {
-	display: grid;
-	place-items: center;
-	width: 180px;
-	height: 96px;
-	padding: 0.8rem 1rem;
-	background: var(--white);
-	border: 1px solid var(--line);
-	border-radius: 18px;
-}
-
-.pay-logos img {
-	max-height: 58px;
-	width: auto;
-	object-fit: contain;
+	color: var(--navy);
+	font-size: 1.15rem;
+	font-weight: 700;
+	letter-spacing: -0.03em;
+	text-align: center;
 }
 
 .feature-grid {
@@ -619,10 +584,12 @@ h3 {
 	text-align: center;
 }
 
-.footer-inner img {
-	width: 180px;
-	height: auto;
-	margin: 0 auto 1rem;
+.footer-name {
+	margin: 0 0 0.45rem;
+	color: var(--white);
+	font-size: 1.25rem;
+	font-weight: 700;
+	letter-spacing: -0.03em;
 }
 
 .footer-inner p {
@@ -795,8 +762,9 @@ h3 {
 	}
 
 	.brand-grid li {
-		height: 104px;
+		min-height: 64px;
 		padding: 0.65rem;
+		font-size: 1rem;
 	}
 }
 
