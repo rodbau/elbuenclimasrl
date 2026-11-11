@@ -446,16 +446,20 @@ h3 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	min-height: 76px;
+	height: 118px;
 	padding: 0.9rem 1rem;
 	background: var(--white);
 	border: 1px solid var(--line);
 	border-radius: 18px;
-	color: var(--navy);
-	font-size: 1.15rem;
-	font-weight: 700;
-	letter-spacing: -0.03em;
-	text-align: center;
+	overflow: hidden;
+}
+
+.brand-grid img {
+	max-width: 78%;
+	max-height: 68px;
+	width: auto;
+	height: auto;
+	object-fit: contain;
 }
 
 .feature-grid {
@@ -769,9 +773,8 @@ h3 {
 	}
 
 	.brand-grid li {
-		min-height: 64px;
+		height: 104px;
 		padding: 0.65rem;
-		font-size: 1rem;
 	}
 }
 
